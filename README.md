@@ -33,4 +33,4 @@ El proyecto se divide en dos fases principales:
 - `BenavidesBolañosSaltos Avance 2.ipynb`: Notebook de Jupyter correspondiente al s proyecto.
 
 ### Repositorio en GitHub:
-- [Enlace al Repositorio]()
+- [Enlace al Repositorio](https://github.com/lawalejo/Anal-tica)
